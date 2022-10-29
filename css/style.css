@@ -1,7 +1,7 @@
 .container{
-    border: 1px solid red;
+    border: 2px solid #E38252;
     width: 1200px;
-    background-color: #E38252;
+    background-color:;
 }
 .nav{
     background-color: #E38252;
@@ -11,5 +11,22 @@
     color: white;
     font-weight: bold;
     text-decoration: none;
-    padding: 60px;
+    padding: 100px;
+}
+main{
+    background-color: white;
+}
+main h1{
+    text-align: ;
+}
+main p{
+    text-align: center;
+}
+main a{
+    text-decoration: none;
+    color: #E38252;
+}
+footer p{
+    text-align: center;
+    margin-top: 50px;
 }
