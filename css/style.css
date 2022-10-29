@@ -12,8 +12,14 @@
     text-decoration: none;
     padding: 100px;
 }
+header img{
+    border: 1px solid #E38252;
+}
 main{
     background-color: white;
+}
+main h2{
+    color: #E38252;
 }
 main p{
     text-align: center;
@@ -21,6 +27,9 @@ main p{
 main a{
     text-decoration: none;
     color: #E38252;
+}
+main img{
+    text-align: center;
 }
 footer p{
     text-align: center;
