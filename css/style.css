@@ -1,3 +1,15 @@
-html{
-    
+.container{
+    border: 1px solid red;
+    width: 1200px;
+    background-color: #E38252;
+}
+.nav{
+    background-color: #E38252;
+    padding: 1.5rem;
+}
+.nav-item{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 60px;
 }
